@@ -31,7 +31,7 @@
     <h3><justified> Apellidos: Cruz Benavides</justified></h3>
     <h3><justified> Edad: 24 años </justified></h3>
     <h3><justified> Direccion: Colonia Ciudad Pacifica, San Miguel</justified></h3>
-    <h3><justified> Numero de telefono: 6029-3285 </justified></h3> 
+    <h3><justified> Numero de telefono: 6029-3285 </justified></h3>
     <h3><justified>Me gusta aprender cada día algo nuevo</justified></h3>
     <hr>
     <div class="container-lg principal">
