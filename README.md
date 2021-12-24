@@ -27,12 +27,12 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6" style="text-align: left;">
 <h3><justified>Datos Personales</justified></h3>
 <hr>
-    <h3><justified> Nombre: Keiry Yasmin</justified></h3>
-    <h3><justified> Apellidos: Cruz Benavides</justified></h3>
-    <h3><justified> Edad: 24 años </justified></h3>
-    <h3><justified> Direccion: Colonia Ciudad Pacifica, San Miguel</justified></h3>
-    <h3><justified> Numero de telefono: 6029-3285 </justified></h3>
-    <h3><justified>Me gusta aprender cada día algo nuevo</justified></h3>
+    <h3> Nombre: Keiry Yasmin</h3>
+    <h3> Apellidos: Cruz Benavides</h3>
+    <h3> Edad: 24 años </h3>
+    <h3> Direccion: Colonia Ciudad Pacifica, San Miguel</h3>
+    <h3> Numero de telefono: 6029-3285 </h3>
+    <h3>Me gusta aprender cada día algo nuevo</h3>
     <hr>
     <div class="container-lg principal">
         <div class="row">
