@@ -59,7 +59,7 @@
                       <p><strong>Actualidad:</strong> Alcaldia de San Miguel</p>
                 </div> 
                 </div>
-            </ul>    
+            </ul>
         </div>
     </div>
         </div> 
